@@ -216,7 +216,7 @@ lib/
 
 ### Social Hub
 <img src="https://github.com/user-attachments/assets/4e8f1858-3963-4379-ad92-beefcdc02a9a" alt="Social & service chats" width="250"/>
-<img src="(https://github.com/user-attachments/assets/3a4d8472-30df-4cba-8dcb-5b36537ddcea" alt="Reels / TikTok-style player" width="250"/>
+<img src="https://github.com/user-attachments/assets/3a4d8472-30df-4cba-8dcb-5b36537ddcea" alt="Reels / TikTok-style player" width="250"/>
 
 
 ### Live Trips
